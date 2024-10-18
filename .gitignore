@@ -10,6 +10,7 @@
 .vscode/
 .cache/
 .tox
+**/*.DS_Store
 build/
 dist/
 docs/autodocs/source/bmtk/
