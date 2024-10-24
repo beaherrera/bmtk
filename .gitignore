@@ -11,6 +11,9 @@
 .cache/
 .tox
 **/*.DS_Store
+**/components/mechanisms/x86_64/
+**/components/mechanisms/arm64/
+**/*.nwb
 build/
 dist/
 docs/autodocs/source/bmtk/
